@@ -1,10 +1,25 @@
 <h1 align="center">Hi 👋, I'm Kizito</h1>
 <h3 align="center">I'm a passionate backend developer with expertise in designing scalable and efficient server-side applications. I specialize in Django, Python, and API development, and I love solving complex problems with clean and maintainable code.</h3>
 
+## :rocket: About Me
+- :computer: Backend Developer | Python Enthusiast
+- :gear: Building RESTful APIs and Microservices
+- :cloud: Working with AWS, Docker, and CI/CD Pipelines
+- :fire: Passionate about Open Source & Clean Code
+- :zap: Always learning and exploring new technologies
+
+
+## : Tools and Technologies
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 - 🔭 I’m currently working on [Banking Sytem](https://github.com/Kizito1990/Banking-system.git)
